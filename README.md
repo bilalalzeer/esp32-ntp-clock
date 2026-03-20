@@ -15,3 +15,4 @@ pio run
 ## Simulate the project
 
 To simulate this project, install [Wokwi for VS Code](https://marketplace.visualstudio.com/items?itemName=wokwi.wokwi-vscode). Open the project directory in Visual Studio Code, press **F1** and select "Wokwi: Start Simulator".
+https://discord.com/oauth2/authorize?client_id=204255083083333633&scope=applications.commands+bot&permissions=1516122532343
